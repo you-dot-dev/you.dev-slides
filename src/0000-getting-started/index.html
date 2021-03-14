@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>You.Dev - 0000 - Getting Started</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section><img src="img/you-dev-logo.png" style="width:33%"/></section>
+				<section>
+					<h3>We need tools</h3>
+					<p class="fragment">Text Editor</p>
+				</section>
+				<section>
+					<div style="display:flex; justify-content: space-between">
+						<div style="text-align: center; width: 50%;">
+							<img class="fragment" src="img/apple.png" style="width:33%" />
+							<br>
+							<img class="fragment" src="img/textmate.png" style="width:33%" />
+							<p class="fragment"><b>TextMate</b></p>
+							<p class="fragment" style="font-size: 24px;">https://macromates.com/</p>
+						</div>
+						<div style="text-align: center; width: 50%;">
+							<img class="fragment" src="img/windows.png" style="width:33%" />
+							<br>
+							<img class="fragment" src="img/notepad-plus-plus.svg" style="width:33%" />
+							<p class="fragment"><b>Notepad++</b></p>
+							<p class="fragment" style="font-size: 24px;">https://notepad-plus-plus.org/</p>
+						</div>
+					</div>
+				</section>
+				<section>
+					<h1>Demo</h1>
+				</section>
+				<section style="background: #333; border-radius: 30px;">
+					<h3 style="margin-top: 2em; color: #fff;">Goodbye!</h3>
+					<img src="img/you-dev-logo-white.png" style="width: 33%;"/>
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>

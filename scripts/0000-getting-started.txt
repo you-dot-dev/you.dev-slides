@@ -1,0 +1,41 @@
+Hello and welcome to You.Dev
+
+My name is Paul, and I'll be your host for this screencast.
+
+I've been working with computer software and infrastructure for over 20 years.
+
+This screencast is the beginning of an epic journey to becoming a full stack engineer. It's possible to get overwhelmed when starting a task of such magnitude. There are dozens of interconnected concepts, ideas, and languages in full-stack engineering, some of them seeming to be prerequisites of each other at times!
+
+The aim of you.dev is start from a basic level of computer knowledge and slowly branch out into all the separate full-stack disciplines. Topics will be introduced naturally as the need for them arises in our journey.
+
+Our first need as new developers is to get some tools, namely a text editor. Every developer from beginner to expert needs a nice, basic text editor and web browser.
+
+If you are on Apple macOS, a great free text editor is TextMate. If you are on Microsoft Windows, a great free text editor is Notepad++. There are so many editors out there, feel free to explore. At the end of the day, all text editors edit text, as we're about to find out.
+
+
+Let's:
+	Get and install:
+		- TextMate
+		- Notepad++
+	Create New Document in TextMate:
+
+	Dabble in our first language: (html)
+		html: all about "tags"
+			- begin / end <html> document - write something in it
+			- <p>
+			- tags control browser behavior
+			- two main elements <head> <body>
+			- <title> puts the title in the tab!
+			- <body>
+			- <h1>
+			- display of information
+	Dabble in our second language: (css)
+		css: all about describing how html looks
+
+	Dabble in our third language: (javascript)
+		javascript: all about describing how html behaves
+
+	
+	
+   
+
